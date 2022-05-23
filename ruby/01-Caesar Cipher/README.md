@@ -10,7 +10,7 @@ Before that, I had to find out how to get the ASCII values and then back to char
 
 I first approached this problem with the idea of transforming the message to an array, then getting the ASCII, shifting it, getting it back to character and then joining everything, but _each_char_ chanded my life and saved me a lot of headaches. I do still need to get used to Ruby syntax, but it does feel good to finally get something done in the language.
 
-#References:
+# References:
 
 ASCII character Codes Table &amp; Cheat Sheet. ASCII Character Codes CheatSheet. (n.d.). May 18, 2022, https://www.petefreitag.com/cheatsheets/ascii-codes/
 
