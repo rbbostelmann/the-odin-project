@@ -1,8 +1,8 @@
-#The task
+# The task
 
 Implement a caesar cipher that takes in a string and the shift factor and then outputs the modified string.
 
-#Difficulties
+# Difficulties
 
 I'm not particularly good at math, so finding out how to make that shift happen was the main roadblock. I spent a good chunck of time trying different things and researching until I came across a suggestion to make a base case and then work from there, which seemed like a good idea. Khan Academy gave me another push to find out the rest and what then seemed impossible came to fruition. I still don really grasp why the % 26 works, but most resources talked about that and lo and behold, it did work.
 
